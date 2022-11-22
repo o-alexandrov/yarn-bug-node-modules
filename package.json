@@ -1,0 +1,9 @@
+{
+  "packageManager": "yarn@3.3.0",
+  "scripts": {
+    "start": "yarn bin tsx"
+  },
+  "dependencies": {
+    "@10stars/config": "^7.1.0"
+  }
+}
